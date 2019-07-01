@@ -1,2 +1,2 @@
-# solidwork_example
+# solidwork_examples
 SolidWork
