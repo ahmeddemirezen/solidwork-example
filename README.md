@@ -1,2 +1,2 @@
 # solidwork_examples
-SolidWork
+SolidWork 2018
